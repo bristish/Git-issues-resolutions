@@ -1,3 +1,6 @@
 #Create a git Directory
 echo " To start in git you need to create a directory firt"
 echo "git init"
+
+# move file into the staging area
+echo "git add ."
