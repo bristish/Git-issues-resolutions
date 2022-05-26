@@ -1,0 +1,3 @@
+#Create a git Directory
+echo " To start in git you need to create a directory firt"
+echo "git init"
